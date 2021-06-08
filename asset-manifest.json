@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://avitalk1.github.io/csb-qp9ze/static/css/main.240a25f7.chunk.css",
+    "main.js": "https://avitalk1.github.io/csb-qp9ze/static/js/main.c420c6f0.chunk.js",
+    "main.js.map": "https://avitalk1.github.io/csb-qp9ze/static/js/main.c420c6f0.chunk.js.map",
+    "runtime-main.js": "https://avitalk1.github.io/csb-qp9ze/static/js/runtime-main.03742fdc.js",
+    "runtime-main.js.map": "https://avitalk1.github.io/csb-qp9ze/static/js/runtime-main.03742fdc.js.map",
+    "static/js/2.e4f9055d.chunk.js": "https://avitalk1.github.io/csb-qp9ze/static/js/2.e4f9055d.chunk.js",
+    "static/js/2.e4f9055d.chunk.js.map": "https://avitalk1.github.io/csb-qp9ze/static/js/2.e4f9055d.chunk.js.map",
+    "index.html": "https://avitalk1.github.io/csb-qp9ze/index.html",
+    "static/css/main.240a25f7.chunk.css.map": "https://avitalk1.github.io/csb-qp9ze/static/css/main.240a25f7.chunk.css.map",
+    "static/js/2.e4f9055d.chunk.js.LICENSE.txt": "https://avitalk1.github.io/csb-qp9ze/static/js/2.e4f9055d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03742fdc.js",
+    "static/js/2.e4f9055d.chunk.js",
+    "static/css/main.240a25f7.chunk.css",
+    "static/js/main.c420c6f0.chunk.js"
+  ]
+}
